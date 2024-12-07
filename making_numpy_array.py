@@ -3,6 +3,14 @@ import numpy as np  # here import numpy before every line
 
 # Create a numpy array 
 
+''' 
+
+1D array is called a vector
+2D array is called a matrix
+3D array is called a tensor
+
+'''
+
 #1D
 a=np.array([1,2,3,4,5])
 print(a)
